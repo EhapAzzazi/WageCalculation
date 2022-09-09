@@ -1,0 +1,2 @@
+# WageCalculation
+Inheritance Practical App
