@@ -1,0 +1,5 @@
+D:\GitHub\WageCalculation\WageCalculation\bin\Debug\WageCalculation.exe.config
+D:\GitHub\WageCalculation\WageCalculation\bin\Debug\WageCalculation.exe
+D:\GitHub\WageCalculation\WageCalculation\bin\Debug\WageCalculation.pdb
+D:\GitHub\WageCalculation\WageCalculation\obj\Debug\WageCalculation.exe
+D:\GitHub\WageCalculation\WageCalculation\obj\Debug\WageCalculation.pdb
